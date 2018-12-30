@@ -36,5 +36,5 @@ function removeLastKitten() {
 }
 
 function removeFirstKitten() {
-
+  var newArray = 
 }
