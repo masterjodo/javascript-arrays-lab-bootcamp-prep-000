@@ -26,7 +26,6 @@ function appendKitten(name) {
 }
 
 function prependKitten(name) {
-  var newArray = [name];
   return name.concat(kittens)
 }
 
